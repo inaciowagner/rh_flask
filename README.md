@@ -1,2 +1,4 @@
 # rh_flask
-um pequeno site com furmulários de geração de declarações de uso da secretaria de administração onde trabalhei. Tem sistema de gerenciamento de login e criação de contas de usuário
+## Sistema 
+Este projeto foi criado para facilitar o trabalho da equipe de RH onde trabalhei, na *Secretaria Municipal de Administração de Areia Branca-RN*, e foi crescendo em complexidade, inicialmente apenas servidando de servidor de arquivos, links usados nos trabalhos diários, depois com declarações simples, e outras mais elaboradas.
+
